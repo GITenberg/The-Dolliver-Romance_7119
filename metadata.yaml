@@ -1,0 +1,27 @@
+_repo: The-Dolliver-Romance_7119
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: This extraordinary fragment, left incomplete at the author's death, hints
+  at the direction Hawthorne's genius may have taken had he lived. Ironically, the
+  subject is the search through science rather than magic for an elixir of life. Poignantly,
+  the unfinished manuscript lay upon Hawthorne's coffin during the author's funeral
+  services.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: The Dolliver Romance
+url: http://www.gutenberg.org/ebooks/7119
