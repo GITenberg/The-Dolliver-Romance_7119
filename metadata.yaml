@@ -1,4 +1,8 @@
 _repo: The-Dolliver-Romance_7119
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -12,6 +16,8 @@ description: This extraordinary fragment, left incomplete at the author's death,
   subject is the search through science rather than magic for an elixir of life. Poignantly,
   the unfinished manuscript lay upon Hawthorne's coffin during the author's funeral
   services.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7119#The-Dolliver-Romance
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
